@@ -1,5 +1,5 @@
 {
-  "name": "metaregistrar/php-dnssec-validator",
+  "name": "webpatser/php-dnssec-validator",
   "description": "DNSSEC validation with only php required",
   "minimum-stability": "dev",
   "license": "proprietary",
@@ -10,6 +10,6 @@
     }
   ],
   "require": {
-    "metaregistrar/php-dns-client": "dev-master"
+    "webpatser/php-dns-client": "dev-master"
   }
 }
